@@ -1,0 +1,21 @@
+função insert  () ;e
+função append ().
+variavel .insert(indice,objeto)
+dada duas listas ,x e y,sintaxe para unir a segunda lista  a primeira È
+x.extend(y)
+indicando que os objetos de y serao todos adicionados ao final da lista x,
+funçao remove ();
+funçao pop ();
+palavra reservada del;e
+funçao clear().
+funçao pop ()
+variavel.pop (indicce)
+palavra reservada del 
+del variavel [indice]
+a funçao clear ()
+variavel .clear()
+a funçao sort() realiza a ordenaçao direta ou inversa dos objetos de uma lista
+sintaxe para ordenaçao direta
+variavel.sort()sintaxe para orde
+sintaxe para orenaçao inversa
+variavel .sort(reverse=true)
